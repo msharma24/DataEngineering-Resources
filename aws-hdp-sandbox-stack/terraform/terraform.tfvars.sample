@@ -1,0 +1,2 @@
+public_key = "ENTER SSH PUBLIC KEY HERE"
+region     = "ap-southeast-2"
